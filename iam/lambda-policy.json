@@ -1,0 +1,23 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1724605563449",
+        "Action": [
+          "logs:CreateLogDelivery",
+          "logs:CreateLogGroup",
+          "logs:CreateLogStream",
+          "logs:DescribeDestinations",
+          "logs:DescribeLogGroups",
+          "logs:DescribeLogStreams",
+          "logs:DescribeQueries",
+          "logs:DescribeQueryDefinitions",
+          "logs:DescribeResourcePolicies",
+          "logs:GetLogDelivery",
+          "logs:GetLogEvents"
+        ],
+        "Effect": "Allow",
+        "Resource": "*"
+      }
+    ]
+  }

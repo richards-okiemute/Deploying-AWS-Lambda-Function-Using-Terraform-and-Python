@@ -1,0 +1,19 @@
+# Terraform directories and files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+crash.*.log
+*.tfplan
+*.zip
+
+# Lock file if you decide to ignore it
+# .terraform.lock.hcl
+
+# Python cache files (if any Python scripts are generating them)
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
