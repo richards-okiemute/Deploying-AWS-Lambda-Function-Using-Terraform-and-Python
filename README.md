@@ -7,5 +7,5 @@ Prerequisites
 Terraform
 AWS Account
 Basic knowledge of AWS services and Terraform
-For detailed instructions, refer to the full documentation [Deploying AWS Lambda Function Using Terraform and Python](https://richards-okiemute.medium.com/deploying-aws-lambda-function-using-terraform-and-python-8ea9bf667bf3)
+Please refer to the full project documentation here: [Deploying AWS Lambda Function Using Terraform and Python](https://richards-okiemute.medium.com/deploying-aws-lambda-function-using-terraform-and-python-8ea9bf667bf3)
 .
